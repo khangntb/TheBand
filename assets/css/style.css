@@ -112,7 +112,7 @@ html {
 }
 
 #nav {
-    /* display: inline-block; */
+    display: inline-block;
 }
 
 #nav, .subnav {
