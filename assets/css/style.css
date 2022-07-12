@@ -206,9 +206,6 @@ html {
 
 #slider {
     position: relative;
-}
-
-#slider .slider-img {
     margin-top: 46.5px;
     padding-top: 50%;
     background: top center / cover no-repeat;
